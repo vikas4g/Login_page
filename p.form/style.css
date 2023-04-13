@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+html{
+    font-size: 62.5%;
+    background-color:#000000;
+}
+.main-div{
+    width: 100rem;
+    height: 56em;
+    background-color: rgb(11, 12, 12);
+    margin: auto;
+    margin-top: 5rem;
+    display: flex;
+    border-radius: 2.5rem;
+
+}
+.limg{
+    width: 15rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    display: block;
+    margin-top: 1.5rem;
+}
+h1{
+    font-size: 3rem;
+    color: white;
+    display: block;
+    margin-left: 3.5rem;
+    margin-top: 3rem;
+}
+.form{
+    display: block;
+    width: 70rem;
+    height: 58rem;
+}
+h4{
+    color: white;
+    font-size: 2rem;
+    margin-left: 4rem;
+    margin-top: 2rem;
+    display: block;
+}
+#email{
+    width: 40rem ;
+    height: 3rem;
+    margin-left: 3.5rem;
+    margin-top: .7rem;
+    background-color: #131413;
+    border-radius:.5rem;
+    color: rgb(255, 255, 255);
+    border: 2px solid #131413;
+
+}
+#password{
+  
+    width: 40rem ;
+    height: 3rem;
+    margin-left: 3.5rem;
+    margin-top: .7rem;
+ background-color:  #131413;
+ border-radius: .5rem;
+ color: rgb(255, 255, 255);
+ border: 2px solid #131413;
+}
+.check-box{
+    width: 2rem;
+    height: 2rem;
+    margin-left: 4rem;
+}
+.c-box{
+    margin-top: 1rem;
+    display: flex;
+}
+h5{
+    margin-left: 5rem;
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 1rem;
+
+}
+.btn{
+    width: 40rem;
+    height: 3.5rem;
+    border-radius: 2.5rem;
+    margin-top: 2rem;
+    margin-left: 3.5rem;
+    background-color: #00bd00;
+    color: white;
+}
+.btn:hover{
+    background-color:  rgb(25, 27, 27);
+    border: 2px solid   #00bd00;
+}
+
+
+span{
+    color: #00bd00;
+}
+h2{
+    color: aliceblue;
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+
+
